@@ -6,8 +6,8 @@
 
 ## Student 1 – Employee Management
 
-**Student Name:** _______________________________  
-**Student Number:** _____________________________  
+**Student Name:** wakunuma leeh  
+**Student Number:** 224049321  
 **Assigned Responsibility:** Employee Management  
 
 ### Functions / Modules Developed
@@ -34,8 +34,8 @@
 
 ## Student 2 – Budget Management
 
-**Student Name:** _______________________________  
-**Student Number:** _____________________________  
+**Student Name:** wakunuma leeh 
+**Student Number:** 224049321  
 **Assigned Responsibility:** Budget Management  
 
 ### Functions / Modules Developed
@@ -62,8 +62,8 @@
 
 ## Student 3 – Supplier Management
 
-**Student Name:** _______________________________  
-**Student Number:** _____________________________  
+**Student Name:** wakunuma leeh  
+**Student Number:** 224049321  
 **Assigned Responsibility:** Supplier Management  
 
 ### Functions / Modules Developed
@@ -89,8 +89,8 @@
 
 ## Student 4 – Asset Management
 
-**Student Name:** _______________________________  
-**Student Number:** _____________________________  
+**Student Name:** wakunuma leeh  
+**Student Number:** 224049321 
 **Assigned Responsibility:** Asset Management  
 
 ### Functions / Modules Developed
@@ -116,8 +116,8 @@
 
 ## Student 5 – Reports
 
-**Student Name:** _______________________________  
-**Student Number:** _____________________________  
+**Student Name:** wakunuma leeh  
+**Student Number:** 224049321  
 **Assigned Responsibility:** Reports  
 
 ### Functions / Modules Developed
@@ -143,8 +143,8 @@
 
 ## Student 6 – Functions, Integration and Validation
 
-**Student Name:** _______________________________  
-**Student Number:** _____________________________  
+**Student Name:** wakunuma leeh  
+**Student Number:** 224049321  
 **Assigned Responsibility:** Functions, Integration and Validation  
 
 ### Functions / Modules Developed
@@ -171,8 +171,8 @@
 
 ## Student 7 – Testing, Documentation and Git Coordination
 
-**Student Name:** _______________________________  
-**Student Number:** _____________________________  
+**Student Name:** wakunuma leeh  
+**Student Number:** 224049321 
 **Assigned Responsibility:** Testing, Documentation and Git Coordination  
 
 ### Functions / Modules Developed
